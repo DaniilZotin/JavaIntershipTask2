@@ -10,6 +10,7 @@ import java.util.regex.Pattern;
 public class Read_file_json
 {
     public static double number = 0;
+    // jimi jimi jimi
     public static Map<String, Double> infoReport = new HashMap<>();
     public void Read_json() throws IOException
     {
