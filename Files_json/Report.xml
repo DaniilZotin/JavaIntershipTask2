@@ -1,0 +1,26 @@
+<Reports>
+	<Report>
+		<type>Red</type>
+		<fine_amount>340.0</fine_amount>
+	</Report>
+	<Report>
+		<type>Speed</type>
+		<fine_amount>340.0</fine_amount>
+	</Report>
+	<Report>
+		<type>No_number</type>
+		<fine_amount>680.0</fine_amount>
+	</Report>
+	<Report>
+		<type>Yellow</type>
+		<fine_amount>340.0</fine_amount>
+	</Report>
+	<Report>
+		<type>Alco</type>
+		<fine_amount>680.0</fine_amount>
+	</Report>
+	<Report>
+		<type>Kill</type>
+		<fine_amount>320.0</fine_amount>
+	</Report>
+</Reports>
